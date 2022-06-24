@@ -29,7 +29,7 @@ const Footer = () => {
                 <ul className="fList">
                     <li className="fListItemTitle">Let Us Help You</li>
                     <li className="fListItem">COVID-19 and Amazon</li>
-                    <li className="fListItem">Ypur Account</li>
+                    <li className="fListItem">Your Account</li>
                     <li className="fListItem">Returns Centre</li>
                     <li className="fListItem">100% Purchase Protection</li>
                     <li className="fListItem">Help</li>
